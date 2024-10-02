@@ -1,4 +1,4 @@
-package com.example;
+package com.example.Vector;
 /*Vou utilizar a classe Main para testar o funcionamento do algoritmo que estou criando
  *assim consigo de forma mais eficaz determinar se necessita de algum ajuste.
  */
